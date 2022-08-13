@@ -1,15 +1,29 @@
 ## Hi there! I'm Xinxin Li 👋
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xinxinli510@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xinxinli5/)
-<br>
-👋 I am a Software Engineer and currently living in Maple Grove, MN.
-<br>
-💻 I’m interested in solving challenging problems and building things that help people connect.
-<br>
+
+
+👋 I'm a Software Engineer with experience in frontend and backend technologies.
+
+
+🌎 I live in the Greater Minneapolis-St. Paul Area, MN.
+
+
+💻 I’m passionate about frontend technologies to create beautiful and performant products with engaging user experiences. In my most recent project, I worked in a team of six engineers to design and develop a full-stack responsive todo/calendar application using modern technologies like React, TypeScript, MaterialUI, Express and Postgres. 
+
+
 💞️ I love collaborating with diverse individuals and finding new ways to challenge myself by using different technologies.
 
+
+### My Recent Projects
+- [Developed Full-Stack Todo/Calendar App](https://github.com/rpp34-boc-caspian/Puffin)
+- [Developed Microservice for E-Commerce Products API](https://github.com/rpp34-sdc-blade/xinxin-overview)
+- [Developed Frontend for E-Commerce Store using React](https://github.com/rpp34-fec-gainsboro/gainsboro-atelier)
+- [Developed Weather App in React](https://github.com/xinxin510/weather_app)
+- [Built GitHub Battle Game using React](https://github.com/xinxin510/github-battle)
+
 ### Languages & Tools
-#### Front Ends:
+#### Frontend:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -20,7 +34,7 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-#### Back Ends:
+#### Backend:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
