@@ -16,9 +16,9 @@
 
 
 ### My Recent Projects
-- [Developed Full-Stack Todo/Calendar App](https://github.com/rpp34-boc-caspian/Puffin)
-- [Developed Microservice for E-Commerce Products API](https://github.com/rpp34-sdc-blade/xinxin-overview)
-- [Developed Frontend for E-Commerce Store using React](https://github.com/rpp34-fec-gainsboro/gainsboro-atelier)
+- [Developed Full-Stack Todo/Calendar App](https://github.com/xinxin510/todo-calendar-app)
+- [Developed Microservice for E-Commerce Products API](https://github.com/xinxin510/product-api-microservice)
+- [Developed Frontend for E-Commerce Store using React](https://github.com/xinxin510/gainsboro-atelier)
 - [Developed Weather App in React](https://github.com/xinxin510/weather_app)
 - [Built GitHub Battle Game using React](https://github.com/xinxin510/github-battle)
 
